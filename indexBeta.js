@@ -102,7 +102,7 @@ document.querySelector('.control-buttons span').onclick = function(){
 
 /*Music ta khessara ga3 */
 
-    },70000);//70000
+    },67000);//70000
 
 
 /*DONE === te3awad tebda mejdid f start || kin3essar f button teradni lawal ga3*/
@@ -142,7 +142,7 @@ document.querySelector('.control-buttons span').onclick = function(){
 /***************************mochekil*****************************/
 /****************************************************************/
 
-    },10000);
+    },70000);
 
 /*music khefifa ta kiydkhol yelab*/
 
